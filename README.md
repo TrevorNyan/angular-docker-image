@@ -1,16 +1,16 @@
 # Angular-Docker image
 Steps:
-1. create the new project by running:
+1. create the new project by running: <br>
 ```my new angular-docker-app```
 
 2. Ensure that it runs locally on: 
 http://localhost:4200
-```ng server
+```ng server```
 
 3. create a Dockerfile:
 
 4. Build the image:
-```docker build --rm -t angular-docker-app:latest
+```docker build --rm -t angular-docker-app:latest```
 
 5. check to ensure image is listed among your docker images locally:
 ```docker images
