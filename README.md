@@ -22,3 +22,6 @@ http://localhost:4200 <br>
 a. Push to docker hub <br>
 b. Push to google container registory, for future deployment in the kubernets cluster <br>
 
+# Refer to my blog for above project:
+<a>https://medium.com/@trevornathan/dockerize-a-starter-angular-app-deploy-to-google-kubernetes-add-a-ci-cd-pipeline-with-cloud-build-7f2077033784 </a>
+
